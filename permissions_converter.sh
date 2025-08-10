@@ -6,7 +6,7 @@
 # A lean and robust Bash function for converting file permissions between numeric (octal) and symbolic representations.
 #
 # @author      : Marcel Gräfen
-# @version     : 0.0.2
+# @version     : 0.1.0
 # @date        : 2025-08-07
 #
 # @requires    : Bash 3.0+
